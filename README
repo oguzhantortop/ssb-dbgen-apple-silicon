@@ -1,3 +1,14 @@
+############################################################################################
+FOR APPLE SILICON USERS PLEASE DO THE FOLLOWING STEPS
+1) install gcc 11 with Brew
+brew install gcc@11
+2) verify gcc 11
+gcc-11 -v
+3) build program
+make
+4) rest follow guides over internet
+############################################################################################
+
 Note: In our research paper we use the SSB instead of SSBM
 Version of 2/28/10: 
 Cardinality of supplier fixed to follow benchmark spec: now 2000*SF
